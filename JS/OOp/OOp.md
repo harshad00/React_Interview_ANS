@@ -1,6 +1,3 @@
-Here's the `README.md` file with the structure you requested:
-
-```markdown
 ## 1. What are the main principles of Object-Oriented Programming?
 
 ### Answer:
@@ -166,4 +163,4 @@ class Dog extends Animal {
 const dog = new Dog("Buddy", "Golden Retriever");
 dog.speak(); // Output: "Buddy barks"
 ```
-```
+
